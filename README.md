@@ -71,7 +71,7 @@ A React application that recommends nearby places based on user preferences (**W
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shankar7318/smart-nearby-places-recommender.git
 cd smart-nearby-places-recommender
 
 2️⃣ Install dependencies
